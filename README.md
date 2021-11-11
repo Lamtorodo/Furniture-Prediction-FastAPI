@@ -14,8 +14,11 @@ Link :https://fastapi-furniture-prediction.herokuapp.com/
 
 ## Overview 
 This is a FastAPI web app which predicts the price of a furniture .
+
 You can find more details on the dataset in the file furniture.csv.
+
 For this version we choose the Decision Tree Regression to do our prediction after do our pre-processing treatments and comparing many models.
+
 You can see how we work by opening the Furniture prediction notebook.ipynb.ipynb file .
 
 ## Installation
