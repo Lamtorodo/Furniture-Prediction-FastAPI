@@ -1,6 +1,7 @@
 # Furniture Prediction
 ## Table of content
 * [Demo](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#demo)
+* [Deploiement](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#deploiement)
 * [Overview](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#overview)
 * [Installation](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#installation)
 * [Bug / Feature Request](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#bug--feature-request)
