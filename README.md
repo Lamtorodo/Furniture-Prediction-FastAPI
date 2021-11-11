@@ -1,14 +1,12 @@
 # Furniture Prediction
 ## Table of content
-* [Demo](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#demo)
 * [Deploiement](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#deploiement)
 * [Overview](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#overview)
 * [Installation](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#installation)
 * [Bug / Feature Request](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#bug--feature-request)
 * [Future scope of project](https://github.com/Lamtorodo/Furniture-Prediction-FastAPI#future-scope)
 
-## Demo
-You can find an explaination of how we proceed to create our endpoint with FastAPI in demo.ipnyb
+
 
 ## Deploiement
 Link :https://fastapi-furniture-prediction.herokuapp.com/
